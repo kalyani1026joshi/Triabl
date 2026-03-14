@@ -1,3 +1,3 @@
 # Triabl
 trial projet <br>
-Author -Kalyani Joshi
+Author -Kalyani (joshi)
